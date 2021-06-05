@@ -1,7 +1,17 @@
+body {
+  margin: 0;
+  font-family: 'Gothic A1', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
 .site-layout-content {
   min-height: 280px;
   padding: 24px;
-  background: rgba(255,255,255,0.75);
+  background: rgba(255, 255, 255, 0.534);
   max-width: 600px;
   margin: auto;
 }
